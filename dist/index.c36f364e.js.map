@@ -1,1 +1,1 @@
-{"mappings":"AAAA,IAAI,OAAO","sources":["index.js"],"sourcesContent":["let dodo = \"ja som to \";\r\n"],"names":[],"version":3,"file":"index.c36f364e.js.map","sourceRoot":"/__parcel_source_root/"}
+{"mappings":"AAAA,IAAI,IAAI,SAAS,aAAa,CAAC;AAC/B,EAAE,SAAS,GAAG","sources":["index.js"],"sourcesContent":["var h = document.querySelector(\"h1\");\r\nh.innerText = \"vol\";\r\n"],"names":[],"version":3,"file":"index.c36f364e.js.map","sourceRoot":"/__parcel_source_root/"}

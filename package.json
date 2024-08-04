@@ -12,7 +12,6 @@
     "@babel/core": "^7.25.2",
     "@babel/preset-env": "^7.25.3"
   },
-  "main": "index.js",
   "repository": "https://github.com/Saydva/ParcelAppBoliler.git",
   "author": "Saydva <kacurikjozef@gmail.com>"
 }
