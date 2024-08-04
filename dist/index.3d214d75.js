@@ -584,6 +584,7 @@ function hmrAccept(bundle /*: ParcelRequire */ , id /*: string */ ) {
 }
 
 },{}],"bB7Pu":[function(require,module,exports) {
+let dodo = "ja som to ";
 
 },{}]},["km5uZ","bB7Pu"], "bB7Pu", "parcelRequire90cc")
 
