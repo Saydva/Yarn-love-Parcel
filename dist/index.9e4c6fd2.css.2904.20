@@ -1,0 +1,19 @@
+* {
+  border: 1px solid red;
+}
+
+.maincontainer {
+  flex-direction: column;
+  align-items: center;
+  display: flex;
+}
+
+.nazov {
+  text-align: center;
+}
+
+.search {
+  text-align: center;
+  display: block;
+}
+/*# sourceMappingURL=index.9e4c6fd2.css.map */

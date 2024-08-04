@@ -1,2 +1,3 @@
-var h = document.querySelector("h1");
-h.innerText = "vol";
+const el = document.querySelector("#search");
+el.value = "boom";
+const h = document.querySelector("h3");
