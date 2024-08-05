@@ -9,6 +9,7 @@ body {
 
 .container {
   width: 80%;
+  max-width: 30rem;
   display: flex;
   align-items: center;
   flex-direction: column;
