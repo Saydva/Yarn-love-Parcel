@@ -1,6 +1,33 @@
-h2 {
-  color: magenta;
-}
 body {
   background-color: rgb(59, 54, 54);
+  display: flex;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.container {
+  width: 80%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  background-color: rgb(43, 40, 40);
+  border-radius: 6px;
+  padding: 1rem;
+  margin: 1rem;
+}
+
+h2,
+label {
+  margin: 0;
+  display: inline-block;
+  color: magenta;
+  padding: 0.5rem;
+}
+
+input,
+label {
+  font-size: 0.7rem;
 }
