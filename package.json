@@ -1,17 +1,16 @@
 {
-  "dependencies": {
-    "build": "^0.1.4",
-    "parcel": "^2.12.0",
-    "watcher": "^2.3.1"
-  },
-  "name": "dodo",
+  "name": "hi",
   "version": "1.0.0",
-  "license": "MIT",
-  "devDependencies": {
-    "@babel/cli": "^7.24.8",
-    "@babel/core": "^7.25.2",
-    "@babel/preset-env": "^7.25.3"
-  },
+  "main": "index.js",
   "repository": "https://github.com/Saydva/ParcelAppBoliler.git",
-  "author": "Saydva <kacurikjozef@gmail.com>"
+  "author": "Saydva <kacurikjozef@gmail.com>",
+  "license": "MIT",
+  "brovserlists": ">0.5% , last 3 versions , not dead",
+  "scripts": {
+    "start": "parcel ./src/index.html",
+    "build":"parcel build"
+  },
+  "dependencies": {
+    "parcel": "^2.12.0"
+  }
 }
